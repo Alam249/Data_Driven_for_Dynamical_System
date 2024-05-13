@@ -1,0 +1,2 @@
+# Data_Driven_for_Dynamical_System
+### This task is analyzing a video of $“Formula 1”$ cars at Monte Carlo using Proper Orthogonal Decomposition (POD) and Dynamic Mode Decomposition (DMD) to separate and reconstruct the video into two parts: one highlighting only the moving cars (foreground of the video) and another showing just the stationary background. The outcome is two videos and a well-documented notebook detailing the methodologies and python code is used in the analysis.
